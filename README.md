@@ -82,6 +82,7 @@
     alt="GitHub most used languages"
   />
 </a>
+<br />
 <a href="https://github.com/pavgeorgiev/pavgeorgiev">
   <img
     src="https://github-readme-stats.vercel.app/api?username=iPavelGeorgiev&show_icons=true&theme=react&hide_border=true&count_private=true&hide=stars"
@@ -94,6 +95,7 @@
     alt="GitHub streak stats"
   />
 </a>
+<br />
 <img
   src="https://komarev.com/ghpvc/?username=pavgeorgiev&label=Profile+Views"
   alt="Profile views"
@@ -103,7 +105,7 @@
 
 I am always interested in meeting new people and expanding my professional network. If you would like to connect and perhaps discuss potential opportunities for collaboration or exchange ideas and perspectives, please do not hesitate to reach out to me. I am open to making new connections and exploring potential avenues for professional development.
 
-<p><a href="https://www.linkedin.com/in/pavel-georgiev/">
+<p><a href="https://www.linkedin.com/in/pavelgeorgiev/">
 <img align="center" src="https://i.ibb.co/6Jw1g19/linkedin-icon.png" alt="LinkedIn" height="auto" width="30"/></a>&nbsp;
 <a href="https://discord.com/users/621026020895621123"><img align="center" src="https://i.ibb.co/80bsWC9/discord-icon.png" alt="Discord" height="auto" width="30"/></a>&nbsp;
 <a href="mailto:pav.georgiev@outlook.com"><img align="center" src="https://i.ibb.co/qnDHfGJ/email-icon.png" alt="Email" height="auto" width="30"/></a></p>
