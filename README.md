@@ -1,4 +1,4 @@
-<a href="https://github.com/pavgeorgiev/pavgeorgiev"><img src="https://i.ibb.co/wKnbfJG/github-banner.png" alt="GitHub banner"></a>
+<img src="readme-banner.png" alt="banner" style="width: 100%;">
 
 # 👨🏻‍💻 About Me
 
