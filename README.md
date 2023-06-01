@@ -97,11 +97,6 @@
     alt="GitHub streak stats"
   />
 </a>
-<br />
-<img
-  src="https://komarev.com/ghpvc/?username=pavgeorgiev&label=Profile+Views"
-  alt="Profile views"
-/>
 
 # 🌐 Let's Connect
 
