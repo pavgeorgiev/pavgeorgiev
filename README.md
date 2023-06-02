@@ -3,7 +3,7 @@
 # 👨🏻‍💻 About Me
 
 <div align="justify">
-  Hey there, I'm Pavel! I'm on a journey to become a full stack web developer, and right now, I'm diving into the world of C#. I firmly believe that writing code that's clean and easy to maintain is absolutely crucial. That's why I'm all in when it comes to following industry best practices in every project I take on. I'm truly passionate about honing my skills and staying up-to-date with the latest techniques and trends. Let's rock this web development journey together!
+  Hey there, I'm Pavel! I'm on a journey to become a Full Stack .NET Developer, and right now, I'm learning C# at Software University. I firmly believe that writing code that's clean and easy to maintain is absolutely crucial. That's why I'm all in when it comes to following industry best practices in every project I take on. I'm truly passionate about honing my skills and staying up-to-date with the latest techniques and trends. Let's rock this web development journey together!
 </div>
 
 # 🛠️ Technologies & Tools
